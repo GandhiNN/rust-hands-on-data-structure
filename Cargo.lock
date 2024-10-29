@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "results-and-options"
 version = "0.1.0"
+
+[[package]]
+name = "stack-data-structures"
+version = "0.1.0"
