@@ -11,6 +11,10 @@ name = "looping-mechanisms-in-iterators"
 version = "0.1.0"
 
 [[package]]
+name = "mutability-variables-copying-and-cloning"
+version = "0.1.0"
+
+[[package]]
 name = "results-and-options"
 version = "0.1.0"
 
