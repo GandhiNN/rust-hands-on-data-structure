@@ -15,9 +15,17 @@ name = "mutability-variables-copying-and-cloning"
 version = "0.1.0"
 
 [[package]]
+name = "own-memory-on-the-heap-with-box-string-and-vectors"
+version = "0.1.0"
+
+[[package]]
 name = "results-and-options"
 version = "0.1.0"
 
 [[package]]
 name = "stack-data-structures"
+version = "0.1.0"
+
+[[package]]
+name = "use-memory-effectively-with-pointers-and-lifetimes"
 version = "0.1.0"
