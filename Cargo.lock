@@ -3,7 +3,19 @@
 version = 3
 
 [[package]]
+name = "array-data-structures"
+version = "0.1.0"
+
+[[package]]
+name = "bubble-sort"
+version = "0.1.0"
+
+[[package]]
 name = "build-comples-structures-with-struct-and-enum"
+version = "0.1.0"
+
+[[package]]
+name = "fibonacci-sequence"
 version = "0.1.0"
 
 [[package]]
