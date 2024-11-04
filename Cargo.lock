@@ -19,6 +19,10 @@ name = "fibonacci-sequence"
 version = "0.1.0"
 
 [[package]]
+name = "insertion-sort"
+version = "0.1.0"
+
+[[package]]
 name = "looping-mechanisms-in-iterators"
 version = "0.1.0"
 
@@ -32,6 +36,10 @@ version = "0.1.0"
 
 [[package]]
 name = "results-and-options"
+version = "0.1.0"
+
+[[package]]
+name = "selection-sort"
 version = "0.1.0"
 
 [[package]]
