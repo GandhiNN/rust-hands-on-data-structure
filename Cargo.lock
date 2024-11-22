@@ -35,6 +35,10 @@ name = "own-memory-on-the-heap-with-box-string-and-vectors"
 version = "0.1.0"
 
 [[package]]
+name = "quick-sort"
+version = "0.1.0"
+
+[[package]]
 name = "results-and-options"
 version = "0.1.0"
 
